@@ -1,0 +1,54 @@
+﻿State,Require SAT,Require ACT
+Alabama,optional,compulsory
+Alaska,optional,optional
+Arizona,optional,optional
+Arkansas,optional,optional_free
+California,optional,optional
+Colorado,compulsory,optional
+Connecticut,compulsory,optional
+Delaware,compulsory,optional
+District of Columbia,optional_free,optional
+Florida,optional,optional
+Georgia,optional,optional
+Hawaii,optional,compulsory
+Idaho,optional_free,optional
+Illinois,compulsory,optional
+Indiana,optional,optional
+Iowa,optional,optional
+Kansas,optional,optional_free
+Kentucky,optional,compulsory
+Louisiana,optional,compulsory
+Maine,optional_free,optional
+Maryland,optional,optional
+Massachusetts,optional,optional
+Michigan,compulsory,optional
+Minnesota,optional_free,optional_free
+Mississippi,optional,compulsory
+Missouri,optional,optional
+Montana,optional,compulsory
+Nebraska,optional,compulsory
+Nevada,optional,compulsory
+New Hampshire,compulsory,optional
+New Jersey,optional,optional
+New Mexico,optional,optional
+New York,optional,optional
+North Carolina,optional,compulsory
+North Dakota,optional,compulsory
+Ohio,compulsory SA,compulsory SA
+Oklahoma,compulsory SA,compulsory SA
+Oregon,optional,optional
+Pennsylvania,optional,optional
+Puerto Rico,optional,optional
+Rhode Island,compulsory,optional
+South Carolina,compulsory SA,compulsory SA
+South Dakota,optional,optional
+Tennessee,compulsory SA,compulsory SA
+Texas,optional,optional
+Utah,optional,compulsory
+Vermont,optional,optional
+Virgin Islands,optional,optional
+Virginia,optional,optional
+Washington,optional,optional
+West Virginia,compulsory,optional
+Wisconsin,optional,compulsory
+Wyoming,optional,compulsory
